@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "openrouter.api",
+  "providerType": "api",
+  "id": "api_openrouter",
+  "title": "OpenRouter",
+  "protocol": "openai",
+  "baseUrl": "https://openrouter.ai/api/v1"
+}
